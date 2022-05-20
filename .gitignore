@@ -11,7 +11,7 @@ project.vim
 .classpath
 .metadata/
 .bsp
-.metals
+.metals*
 .vscode
 .bloop
 project/metals.sbt
